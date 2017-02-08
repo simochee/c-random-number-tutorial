@@ -17,4 +17,11 @@
 
 > x<sub>n</sub> = ( Ax<sub>n - 1</sub>) mod *M*
 
-という漸化式により 0〜*M* の範囲で値を発生させる。$x^3$
+という漸化式により 0〜*M* の範囲で値を発生させる。
+
+$$
+\begin{eqnarray}
+4a &=& ((a+a)+a)+a \\
+   &=& (a+a)+(a+a)
+\end{eqnarray}
+$$
